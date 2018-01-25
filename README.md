@@ -28,4 +28,4 @@ W (West)
 NW (North-West)
 
 ### Dependencies:
-Numpy
+- Numpy
