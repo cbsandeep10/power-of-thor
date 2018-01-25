@@ -26,3 +26,6 @@ S (South)
 SW (South-West)
 W (West)
 NW (North-West)
+
+### Dependencies:
+Numpy
